@@ -1,11 +1,14 @@
 .bgB{
     background-color: rgb(230, 238, 238);
 }
-.bgbuttonSI{
-    width: 100%;
-}
 .bgbuttonCA{
     background-color: rgb(32, 184, 40);
     width: 50%;
 }
 
+.LGList{
+    list-style: none;
+}
+.LKList{
+    list-style: none;
+}
