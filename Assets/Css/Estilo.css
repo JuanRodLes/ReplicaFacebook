@@ -1,14 +1,26 @@
 .bgB{
-    background-color: rgb(230, 238, 238);
+    background-color: rgb(241, 241, 241);
+}
+.Logo{
+    width: 40%;
 }
 .bgbuttonCA{
     background-color: rgb(32, 184, 40);
     width: 50%;
 }
-
-.LGList{
-    list-style: none;
+footer{
+    margin-top: 200px;
+    padding: 25px 150px 20px 
 }
-.LKList{
+.Line{
+    margin-left: 35px
+}
+li, li a{
     list-style: none;
+    text-decoration: none;
+    color: rgb(150, 150, 150);
+    font-size: 12px;
+}
+.Language{
+    margin-left: 40px !important;
 }
